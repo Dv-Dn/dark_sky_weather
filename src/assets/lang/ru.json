@@ -1,0 +1,28 @@
+{
+  "summary":"Сводка",
+  "precipIntensity":"Интенсивность осадков",
+  "precipProbability":"Вероятность осадков",
+  "temperature":"Температура",
+  "apparentTemperature":"Кажущаяся температура",
+  "dewPoint":"Точка росы",
+  "humidity":"Влажность",
+  "pressure":"Давление",
+  "windSpeed":"Скорость ветра",
+  "windGust":"Порывы ветра",
+  "windBearing":"",
+  "cloudCover":"Облачный покров",
+  "uvIndex":"",
+  "visibility":"Видимость",
+  "ozone":"Озон",
+  "datNames": [
+    "Неделя",
+    "Понедельник",
+    "Вторник",
+    "Среда",
+    "Четверг",
+    "Пятница",
+    "Суббота",
+    "Сегодня"
+  ],
+  "details":"Детально"
+  }

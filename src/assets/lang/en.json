@@ -1,0 +1,29 @@
+{
+  "summary":"Summary",
+  "precipIntensity":"Precipitation intensity",
+  "precipProbability":"Precipitation probability",
+  "temperature":"Temperature",
+  "apparentTemperature":"Apparent temperature",
+  "dewPoint":"Dew point",
+  "humidity":"Humidity",
+  "pressure":"Pressure",
+  "windSpeed":"Wind speed",
+  "windGust":"Wind gust",
+  "windBearing":"Wind bearing",
+  "cloudCover":"Cloud cover",
+  "uvIndex":"",
+  "visibility":"Visibility",
+  "ozone":"Ozone",
+  "datNames": [
+    "Sunday",
+    "Monday",
+    "Tuesday",
+    "Wednesday",
+    "Thursday",
+    "Friday",
+    "Saturday",
+    "Today"
+  ],
+  "current":"Today",
+  "details":"Details"
+  }
